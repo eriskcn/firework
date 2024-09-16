@@ -73,7 +73,7 @@ You can modify the following settings through the provided settings menu:
 
 ## Contributing
 
-Feel free to contribute to this project by submitting issues or pull requests on [GitHub](https://github.com/yourusername/firework-show).
+Feel free to contribute to this project by submitting issues or pull requests on [GitHub](https://github.com/eriskcn/firework).
 
 ## License
 
