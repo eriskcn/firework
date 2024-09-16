@@ -31,7 +31,7 @@ To view the fireworks show:
 
 2. **Navigate to the Project Directory**:
    ```sh
-   cd firework-show
+   cd firework
    ```
 
 3. **Open `index.html` in Your Web Browser**.
