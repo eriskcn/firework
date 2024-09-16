@@ -26,7 +26,7 @@ To view the fireworks show:
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/firework-show.git
+   git clone https://github.com/eriskcn/firework.git
    ```
 
 2. **Navigate to the Project Directory**:
